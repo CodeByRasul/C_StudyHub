@@ -1,2 +1,2 @@
 # C_StudyHub
-Добро пожаловать в C_StudyHub — репозиторий, созданный для изучения и практики программирования на языке C. Здесь вы найдете структурированные материалы для освоения основ, продвинутых концепций и практических навыков программирования на C.
+Welcome to C_StudyHub — a repository created for learning and practicing programming in the C language. Here you will find structured materials to master the fundamentals, advanced concepts, and practical programming skills in C.
